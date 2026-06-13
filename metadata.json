@@ -1,0 +1,6 @@
+{
+  "name": "Glow Aesthetics",
+  "description": "A luxury, high-converting med spa website based in Austin, TX offering premium, non-surgical aesthetic treatments including Botox, lasers, and skin rejuvenation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
